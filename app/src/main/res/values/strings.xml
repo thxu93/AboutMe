@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="to_Text">Text</string>
+    <string name="to_Image">Image</string>
+    <string name="to_Web">Web</string>
+    <string name="to_Toast">Toast</string>
+    <string name="to_Dialog">Dialog</string>
+</resources>
